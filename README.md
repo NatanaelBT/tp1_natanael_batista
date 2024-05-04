@@ -1,6 +1,6 @@
 # Filmes Clássicos para Assistir antes de Morrer
 
-O Recomendador de Filmes Clássicos é um programa simples desenvolvido em Python usando a estrutura de filas com interface gráfica usando Tkinter. Ele sugere filmes clássicos para os usuários assistirem, permite adicionar novos filmes à lista e oferece a opção de encerrar o programa.
+O Recomendador de Filmes Clássicos é um programa simples desenvolvido em Python usando a estrutura de lista encadeada com interface gráfica usando Tkinter. Ele sugere filmes clássicos para os usuários assistirem, permite adicionar novos filmes à lista e oferece a opção de encerrar o programa.
 
 ## Como Executar
 
