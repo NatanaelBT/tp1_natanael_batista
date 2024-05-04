@@ -7,7 +7,8 @@ O Recomendador de Filmes Clássicos é um programa simples desenvolvido em Pytho
 1. Sugerir Filme Clássico: Clique no botão "Sugerir Filme Clássico para Assistir Antes de Morrer" para receber uma recomendação aleatória de filme clássico.
 2. Adicionar Filme à Lista: Use o botão "Adicionar Filme à Lista" para adicionar um novo filme à lista.
 3. Abrir Link do Filme: Clique no link fornecido junto à recomendação para abrir o streaming do filme no navegador padrão.
-4. Encerrar Programa: O botão "Encerrar" fecha o aplicativo.
+4. Visualizar Todos os Filmes: Uma funcionalidade que permite aos usuários ver todos os filmes da lista em uma nova janela.
+5. Encerrar Programa: O botão "Encerrar" fecha o aplicativo.
 
 ## Como Executar
 
